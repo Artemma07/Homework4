@@ -1,0 +1,6 @@
+﻿  header.cpp
+  Homework4.cpp
+  Создание кода...
+C:\Users\Artem\source\repos\Homework4\header.cpp(9): warning C4715: func_y: значение возвращается не при всех путях выполнения
+C:\Users\Artem\source\repos\Homework4\header.cpp(21): warning C4715: func_t: значение возвращается не при всех путях выполнения
+  Homework4.vcxproj -> C:\Users\Artem\source\repos\Homework4\Debug\Homework4.exe
